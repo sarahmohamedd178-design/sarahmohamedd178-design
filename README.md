@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ahmed Mohamed Abubakr and I'm a Developer, from Sohag</h2>
+<h2 align="left">Hi 👋! My name is Sarah Mohamed </h2>
 
 ###
 
@@ -68,47 +68,32 @@
 ###
 ## 👨‍💼 About Me
 
-**Name:** Ahmed Mohamed Abubakr  
-**Location:** Giza, Egypt  
-**Email:** [ahmed.mo.abubakr@gmail.com](mailto:ahmed.mo.abubakr@gmail.com)  
-**Portfolio:** [abubakr.rf.gd](https://abubakr.rf.gd)  
-**Phone:** +20 111 328 4597  
-**CV:** [Download PDF](assets/cv/ahmed-mohamed-abubakr.pdf)
+**Name:** Sarah Mohamed 
+**Location:** Cairo, Egypt  
+**Email:** [sarahmohamedd178@gmail.com](mailto:sarahmohamedd178@gmail.com)  
+**Portfolio:** [sarah-mohamed.rf.gd](https://sarah-mohamed.rf.gd)  
+**CV:** [Download PDF]()
 
 ## 🎯 Objective
 
-To obtain an R&D Engineer position where I can apply my academic background in electronics, hands-on experience in analog IC layout design, and practical skills in tools such as Cadence, Proteus, and Altium to contribute to innovation and development in electronic systems.
+Motivated Mechatronics Engineer with strong skills in mechanical design, electrical systems, and control automation. Experienced in hardware-software integration, system modeling, and problem-solving using tools such as MATLAB, SolidWorks, and Arduino. Dedicated to innovation, precision, and continuous technical growth within multidisciplinary engineering environments.
 
 ## 🎓 Education
 
-- **Bachelor of Electronics and Communications Engineering**  
-  Sohag University | Faculty of Engineering  
-  Graduated: 2023
+Higher Technological Institute – Faculty of Engineering
+Bachelor of Mechatronics Engineering, 2024 | GPA: 3.53 / Excellent (88.25%)
+Graduation Project: Vending Machine Design (Oct 2023 – Jan 2024)
+  -	Designed and simulated electrical systems using Proteus, Tinkercad, and Fritzing.
+  -	Developed Arduino control code for system automation.
+  -	Selected suitable DC motor and calculated torque requirements.
+  -	Integrated sensors, actuators, and wiring for full operational prototype.
 
 ## 🛠️ Technical Skills
 
-- Cadence
-- Linux
-- Python
-- MATLAB/Simulink
-
-## 👨‍🏫 Teaching Skills
-
-- Curriculum development
-- Student mentoring
+  Software & Tools: MATLAB, SolidWorks, Proteus, Multisim, TIA Portal, LogixPro, CAD/CAM, EKTS, Arduino, CADe
+  Engineering Domains: Automation Systems, Control Engineering, Electrical Circuits, Mechatronic Design, Embedded Systems
+  Computer Skills: Microsoft Office (Word, Excel, PowerPoint), Data Reporting, Simulation Tools
 
 ## 🌐 Languages
 
-- Fluent English (written/spoken)
-
-## 📫 Contact
-
-- **Email:** [ahmed.mo.abubakr@gmail.com](mailto:ahmed.mo.abubakr@gmail.com)
-- **Phone:** +20 111 328 4597
-- **Location:** Giza, Egypt
-
----
-
-## Short Professional Bio
-
-I am an Electronics and Communications Engineer with a strong foundation in analog IC layout design and hands-on experience using industry-standard tools such as Cadence, Proteus, and Altium. Driven by a passion for research and development, I excel at bridging academic knowledge with practical engineering solutions. My expertise spans technical design, curriculum development, and student mentoring, and I am committed to contributing to innovation in electronic systems. Fluent in English, I am eager to join a forward-thinking team as an R&D Engineer.
+Arabic: Native | English: Very Good | French: Beginner
